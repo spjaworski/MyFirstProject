@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background: url('./andromeda.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+form {
+    padding: 1em;
+    margin: 0 auto;
+    width: 145px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px lightgrey
+}
+
+
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+input, label {
+    display: block;
+}

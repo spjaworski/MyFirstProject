@@ -1,0 +1,102 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(197, 191, 191);
+}
+
+h2 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h1 {
+    color: rgb(31, 200, 45)
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none; 
+    color: black;
+}
+
+a:hover {
+    font: bold;
+    color: darkblue;
+    cursor: pointer;
+}
+
+.emphasis {
+    color: red;
+    font-weight: bold;
+}
+
+.boxes {
+    margin: 0;
+    padding: 0;
+    border: 3px solid rgb(141, 57, 141);
+    border-radius: 15px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: lightyellow;
+}
+#box2 {
+    background-color: white;
+}
+#box3 {
+    background-color: lightgreen;
+}
+#box4 {
+    background-color: lightblue;
+}
+
+.boxImage {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgba(18, 15, 173, 0.698);
+    position: relative;
+    left: 10%;
+    bottom: -36%;
+}
+
+.original {
+    color: rgb(255, 0, 170);
+}
+.additional {
+    color:rgba(29, 5, 5, 0.698);
+}
+
+#rank1 {
+    color:royalblue;
+}
+#rank2 {
+    color:sienna;
+}
+#rank3 {
+    color:teal;
+}
+#rank4 {
+    color:violet;
+}
+#rank5 {
+    color:crimson;
+}
+
+ul {
+    color: red;
+}
+
+.star {
+    color: black;
+}
+#war {
+    color:blueviolet;
+}
+div {
+    border: 2px solid black;
+}
